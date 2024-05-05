@@ -18,5 +18,6 @@ of the given files, the three most complex functions(functions with the biggest 
 
 3. Open the project directory in Command Prompt(Windows)/Terminal(Linux) depends of your operating system.
 
-4. To run the code first compile it using the command: javac Main.java, then use the command: javac Main.java codebases.
+4. To run the code first compile it using the command: ```javac Main.java```, then use the command: ```javac Main.java codebases```
+
 
